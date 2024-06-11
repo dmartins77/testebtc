@@ -143,7 +143,18 @@ async function generateKeys() {
                     throw erro;
                 }
                 console.log("Arquivo salvo");
-            }); 
+            });
+            console.log(`
+                \x1b[38;2;250;128;114m
+                ╔════════════════════════════════════════════════════════════════════════╗
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ╚════════════════════════════════════════════════════════════════════════╝
+                \x1b[0m`);
             continuarLoop = false; // Saia do loop
             break; // Saia do loop for
         }
@@ -156,7 +167,18 @@ async function generateKeys() {
                     throw erro;
                 }
                 console.log("Arquivo salvo");
-            }); 
+            });
+            console.log(`
+                \x1b[38;2;250;128;114m
+                ╔════════════════════════════════════════════════════════════════════════╗
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ╚════════════════════════════════════════════════════════════════════════╝
+                \x1b[0m`);
             continuarLoop = false; // Saia do loop
             break; // Saia do loop for
         }
@@ -169,7 +191,18 @@ async function generateKeys() {
                     throw erro;
                 }
                 console.log("Arquivo salvo");
-            }); 
+            });
+            console.log(`
+                \x1b[38;2;250;128;114m
+                ╔════════════════════════════════════════════════════════════════════════╗
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ╚════════════════════════════════════════════════════════════════════════╝
+                \x1b[0m`);
             continuarLoop = false; // Saia do loop
             break; // Saia do loop for
         }
@@ -182,7 +215,18 @@ async function generateKeys() {
                     throw erro;
                 }
                 console.log("Arquivo salvo");
-            }); 
+            });
+            console.log(`
+                \x1b[38;2;250;128;114m
+                ╔════════════════════════════════════════════════════════════════════════╗
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ║ ${'Achei! '.repeat(10)} ║
+                ╚════════════════════════════════════════════════════════════════════════╝
+                \x1b[0m`);
             continuarLoop = false; // Saia do loop
             break; // Saia do loop for
         }
